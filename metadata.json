@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Permintaan Maaf atas semuanya",
+  "description": "Sebuah ungkapan permohonan maaf yang tulus dan harapan untuk memulai kembali dan memperbaiki.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
